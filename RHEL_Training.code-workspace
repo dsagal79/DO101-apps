@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "DO101",
+			"path": "."
+		},
+		{
+			"name": "hello-nodejs",
+			"path": "../hello-nodejs"
+		},
+		{
+			"name": "DO101-apps",
+			"path": "DO101-apps"
+		}
+	]
+}
